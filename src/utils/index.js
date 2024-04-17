@@ -12,6 +12,12 @@ export const projectData = [
         link:"https://github.com/Shido-Descrow/shidoscrow"
     },
     {
+        overlay:"#3, web3+MERN",
+        name:"Code Hive",
+        description:"A web3 based coding platform that leverages IPFS to store code based, USP being the bounty system for the users to kick start the traffic to the system.",
+        link:"https://github.com/CodeHive-Org/CodeHive"
+    },
+    {
         overlay:"Comming soon!",
         name:"𐌐ዐ𐌔ቹ░░𐌀 ░𐌔Ꝋ░░░",
         description:"A web3 based...",
