@@ -177,11 +177,11 @@ export default function Contact() {
                             </div>
                         </div>
                     </div>
-                    <div className="flex gap-2 lg:flex-row md:flex-row flex-col">
+                    {/* <div className="flex gap-2 lg:flex-row md:flex-row flex-col">
                         <img src={insta} className="w-full hidden lg:block" alt="" />
                         <img src={linktree} className="w-full hidden lg:block" alt="" />
                         <img src={insta} className="w-full hidden lg:block" alt="" />
-                    </div>
+                    </div> */}
                 </div>
             </div>
         </div>

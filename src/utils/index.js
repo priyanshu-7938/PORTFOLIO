@@ -18,7 +18,13 @@ export const projectData = [
         link:"https://github.com/CodeHive-Org/CodeHive"
     },
     {
-        overlay:"Comming soon!",
+        overlay:"#4, BTFS+web3",
+        name:"Renthub-BtFS",
+        description:"A wrapper for BTFS to ease the process of deploying data on BTFS. while providing a SDK to boost the integration of BTFS more faster.",
+        link:"https://github.com/rentHub-Org"
+    },
+    {
+        overlay:"Coming soon!!",
         name:"𐌐ዐ𐌔ቹ░░𐌀 ░𐌔Ꝋ░░░",
         description:"A web3 based...",
         link:"https://github.com/priyanshu-7938"
