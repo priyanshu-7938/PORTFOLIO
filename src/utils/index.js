@@ -18,7 +18,13 @@ export const projectData = [
         link:"https://github.com/CodeHive-Org/CodeHive"
     },
     {
-        overlay:"#4, BTFS+web3",
+        overlay:"#4, Electron+BTFS(Go)",
+        name:"Zap-Browser",
+        description:"A browser around the btfs infra that opens up new domain of creating daaps, where one site can directly tap into core functions of btfs, in the window object.",
+        link:"https://github.com/Zap-browser"
+    },
+    {
+        overlay:"#5, BTFS+web3",
         name:"Renthub-BtFS",
         description:"A wrapper for BTFS to ease the process of deploying data on BTFS. while providing a SDK to boost the integration of BTFS more faster.",
         link:"https://github.com/rentHub-Org"
